@@ -1,2 +1,5 @@
 # jsdelivrp-cdn
-use for jsdelivrp-cdn
+
+My cdn repo.
+
+JSDELIVR: https://www.jsdelivr.com/
